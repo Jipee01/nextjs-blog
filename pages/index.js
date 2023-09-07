@@ -11,7 +11,7 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p>[University of the Assumption: Student/Teacher's Evaluation]</p>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec turpis vel elit sodales fringilla. Fusce non augue nec sapien ullamcorper vestibulum. Sed bibendum ipsum sed nunc tristique, eu volutpat tortor iaculis. Aenean
+        My hobbies include playing and watching various activities, and I have a penchant for "Your Song" by Parokya ni Edgar and dinuguan. I decided to pursue IT due to my curiosity and aspire to become a web developer in the near future. I'm looking forward to expanding my knowledge in system integration and architecture, and my only request is to maintain specificity in our discussions.
 {' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
